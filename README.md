@@ -6,3 +6,7 @@ some options might not be necessary but the whole thing should work. not guarant
 - Put your pdf, this script and the exiftool in the same folder and then run the script.
 
 Refer to [exifTool](https://exiftool.org/install.html) on how to install their software
+
+
+# WHY DOES THIS EXIST?
+This exists because from aproximately 10 tools I have tried on Windows, none of them had worked properly. So I implemented it myself and it worked
